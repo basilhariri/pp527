@@ -91,8 +91,8 @@ to perform worse.
 ### Figures
 
 #### Figure 1
-- ![Bar graph showing school success rising with teacher qualification rates](figures/figure1.PNG)
+![Bar graph showing school success rising with teacher qualification rates](figures/figure1.PNG)
 #### Figure 2
-- ![Bar graph showing school success falling as more students qualify for subsidized meals](figures/figure2.PNG)
+![Bar graph showing school success falling as more students qualify for subsidized meals](figures/figure2.PNG)
 #### Figure 3
-- ![Line graph showing that schools with higher student income tend to have more fully-qualified teachers than schools with lower student income](figures/figure3.PNG)
+![Line graph showing that schools with higher student income tend to have more fully-qualified teachers than schools with lower student income](figures/figure3.PNG)
