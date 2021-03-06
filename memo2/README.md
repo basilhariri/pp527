@@ -89,7 +89,8 @@ schools with less qualified teachers.
 ### Figures
 
 #### Figure 1
-
+![Bar graph showing school success rates are higher at schools with >=90% qualified teachers by about 10%](figures/figure1.PNG)
 #### Figure 2
-
+![Bar graph showing school success rates are at higher income schools than lower income schools](figures/figure2.PNG)
 #### Figure 3
+![Bar graph showing that schools with higher student family income are 2 times as likely to have >=90% fully-qualified teachers as schools with lower student income](figures/figure3.PNG)
