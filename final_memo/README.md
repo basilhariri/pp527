@@ -93,7 +93,7 @@ population at that time, approximately 267 million people out of 307M had health
 
 ![Bar graph showing the increase in healthcare coverage from 2009 to 2019](figures/figure1.PNG)
 
-_Figure 1_
+(_Figure 1_)
 
 By extrapolating this proportion to the U.S. population in 2019, approximately 301.98 million 
 people of 328.24 million people in the U.S. had coverage. This is an increase in 35.09 million 
@@ -105,7 +105,7 @@ time period, shown in Figure 2.
 
 ![Trend line showing overall health insurance coverage rates increasing from 2009 to 2019](figures/figure2.PNG)
 
-_Figure 2_
+(_Figure 2_)
 
 #### Health Insurance Coverage Increases by Race
 
@@ -120,7 +120,7 @@ coverage changed by race.
 
 ![Bar graph showing the increases in healthcare coverage from 2009 to 2019 by race](figures/figure3.PNG)
 
-_Figure 3_
+(_Figure 3_)
 
 #### Health Insurance Coverage Increases by State Medicaid Expansion
 
@@ -133,7 +133,7 @@ coverage in these states, this analysis does not examine or prove a causal relat
 
 ![Bar graph showing the increases in healthcare coverage from 2009 to 2019 for states with/without expanded Medicaid coverage](figures/figure4.PNG)
 
-_Figure 4_
+(_Figure 4_)
 
 ### Limitations
 
