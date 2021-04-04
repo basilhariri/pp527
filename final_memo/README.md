@@ -92,6 +92,7 @@ population at that time, approximately 267 million people out of 307M had health
 (The World Bank, 2019). In contrast, 92% of the 2019 ACS sample had health insurance coverage (see Figure 1; footnote 3).
 
 ![Bar graph showing the increase in healthcare coverage from 2009 to 2019](figures/figure1.PNG)
+
 _Figure 1_
 
 By extrapolating this proportion to the U.S. population in 2019, approximately 301.98 million 
@@ -103,6 +104,7 @@ This is consistent with the trends of overall health insurance coverage year-by-
 time period, shown in Figure 2.
 
 ![Trend line showing overall health insurance coverage rates increasing from 2009 to 2019](figures/figure2.PNG)
+
 _Figure 2_
 
 #### Health Insurance Coverage Increases by Race
@@ -117,6 +119,7 @@ same time period, 6.38% of Black Americans (see footnote 5). Figure 3 shows a br
 coverage changed by race.
 
 ![Bar graph showing the increases in healthcare coverage from 2009 to 2019 by race](figures/figure3.PNG)
+
 _Figure 3_
 
 #### Health Insurance Coverage Increases by State Medicaid Expansion
@@ -129,6 +132,7 @@ did not expand (see footnote 6). While expanded Medicaid access could be the dri
 coverage in these states, this analysis does not examine or prove a causal relationship between these variables.
 
 ![Bar graph showing the increases in healthcare coverage from 2009 to 2019 for states with/without expanded Medicaid coverage](figures/figure4.PNG)
+
 _Figure 4_
 
 ### Limitations
